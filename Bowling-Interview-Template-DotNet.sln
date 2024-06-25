@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingInterview", "BowlingInterview\BowlingInterview.csproj", "{E817E623-FD84-4C80-BD83-06050F2F046A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingInterview.Test", "BowlingInterview.Test\BowlingInterview.Test.csproj", "{9B6759E2-6293-4DD5-B0ED-A11A5683C1E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E817E623-FD84-4C80-BD83-06050F2F046A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E817E623-FD84-4C80-BD83-06050F2F046A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E817E623-FD84-4C80-BD83-06050F2F046A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E817E623-FD84-4C80-BD83-06050F2F046A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6759E2-6293-4DD5-B0ED-A11A5683C1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6759E2-6293-4DD5-B0ED-A11A5683C1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6759E2-6293-4DD5-B0ED-A11A5683C1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6759E2-6293-4DD5-B0ED-A11A5683C1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
