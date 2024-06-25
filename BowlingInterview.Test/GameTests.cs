@@ -5,7 +5,7 @@ namespace TestProject1;
 public class GameTests
 {
     [Fact]
-    public void WhenRolling9StrikesAndOn10thFrame0then9()
+    public void WhenRolling9StrikesAndOn10thFrame0then9ScoreShouldBe258()
     {
         var game = new Game();
 
@@ -22,7 +22,7 @@ public class GameTests
     }
     
     [Fact]
-    public void WhenRolling9StrikesAndOn10thFrame9then0()
+    public void WhenRolling9StrikesAndOn10thFrame9then0ScoreShouldBe267()
     {
         var game = new Game();
 
@@ -39,7 +39,7 @@ public class GameTests
     }
 
     [Fact]
-    public void WhenRolling12StrikesScoreShouldBePerfect300()
+    public void WhenRolling12StrikesScoreShouldBe300()
     {
         var game = new Game();
 
